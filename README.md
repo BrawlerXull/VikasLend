@@ -163,8 +163,3 @@ Special thanks to the open-source community and blockchain developers for their 
 
 ---
 
-## Contact
-
-For any inquiries or support, please reach out to us at [your-email@example.com].
-
----
