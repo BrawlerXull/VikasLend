@@ -111,6 +111,7 @@ exports.getUserApprovedBids = async (req, res) => {
 exports.bid = async (req, res) => {
   try {
     const { loanIndex, bidBy, bid } = req.body;
+    console.log(loanIndex)
     const loan = await Loan.findOne({loanIndex});
     console.log(loan)
     if (!loan) {

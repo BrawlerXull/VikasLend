@@ -26,6 +26,7 @@ const navItems = [
   { href: '/dashboard', label: 'Dashboard' },
   { href: '/request-loan', label: 'Request Loan' },
   { href: '/community', label: 'Community' },
+  { href: '/register', label: 'Register' },
 ]
 
 export function Navbar({

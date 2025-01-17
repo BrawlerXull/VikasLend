@@ -1,5 +1,6 @@
 import { useAppDispatch } from './useAppDispatch';
 import { setWalletAddress, disconnectWallet } from '../store/wallet/walletSlice';
+import { ethers } from 'ethers';
 
 export const useWalletLogin = () => {
   const dispatch = useAppDispatch(); 

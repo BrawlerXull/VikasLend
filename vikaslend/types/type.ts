@@ -35,6 +35,10 @@ export type Community = {
   
 
   export interface Loan {
+    loanIndex: any;
+    bids: any;
+    loan: any;
+    loanId: any;
     typeOfLoan: number;
     amount: number;
     description: string;
