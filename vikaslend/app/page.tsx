@@ -19,8 +19,7 @@ export default function Home() {
           Welcome to VikasLend
         </h1>
         <p className="text-xl mb-8 text-muted-foreground">
-          Empowering individuals and small businesses through blockchain-based micro-lending.
-          Join our community and make a difference today.
+          Empowering farmers through blockchain-driven micro-lending. Join our community and help cultivate growth, one farm at a time.
         </p>
       </motion.div>
       <motion.div
